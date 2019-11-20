@@ -1,0 +1,6 @@
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\obj\Debug\Example_06.csprojResolveAssemblyReference.cache
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\bin\Debug\Example_06.exe
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\bin\Debug\Example_06.pdb
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\obj\Debug\Example_06.exe
+C:\Users\deren\Documents\шаблоны\Example_06\Example_06\obj\Debug\Example_06.pdb
